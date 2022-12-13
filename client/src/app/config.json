@@ -1,4 +1,4 @@
 {
-    "apiEndpoint": "http://localhost:8080/api",
+    "apiEndpoint": "https://spardja.ru/api",
     "isFirebase": false
 }
